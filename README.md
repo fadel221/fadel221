@@ -30,6 +30,6 @@
 ### 📫 Get in Touch
 - 📧 Email: gueyefadel22@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fadhilou/)
-- 🌍 Portfolio: [Your Website](portfolio-indol-eta-21.vercel.app/)
+- 🌍 Portfolio: [Your Website](https://my-portfolio-indol-eta-21.vercel.app/#project)
 
 ⚡ **Let's build something amazing together!** 🚀
