@@ -5,7 +5,7 @@
 ---
 
 ### 📝 About Me
-I am a passionate software developer with a strong interest in building scalable and efficient applications. With experience in multiple programming languages and frameworks, I enjoy solving complex problems and continuously learning new technologies. Whether it's developing mobile apps, web applications, or backend services, I thrive on creating innovative solutions that make an impact.
+I am a passionate software developer from Senegal 🇸🇳 with a strong interest in building scalable and efficient applications. With experience in multiple programming languages and frameworks, I enjoy solving complex problems and continuously learning new technologies. Whether it's developing mobile apps, web applications, or backend services, I thrive on creating innovative solutions that make an impact.
 
 ---
 
