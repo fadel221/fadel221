@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hello, I'm [Cheikh Mohamadou Fadhilou GUEYE]!
 
-<!--
-**fadel221/fadel221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate Developer | Tech Enthusiast | Problem Solver | Coding My Super Power**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Programming Languages**: Dart, JavaScript, PHP, SQL, Java, C
+- **Frameworks**: Flutter, Angular, React, Symfony, NextJS
+- **Databases**: Firebase, MySQL
+- **Version Control**: Git, GitHub
+- **Other Tools**: Docker, Postman, Trello, Slack, Google Maps API
+- **Operating System**: Linux, Mac OS, Windows
+- **Languages**: Fluent French & English Speaker
+
+---
+
+### 🌱 Currently Working On
+- 📍 **Geolocation App for Parents** (Tracking & Navigation)
+- 🎓 **Learning Platform** (BAC & Academic Resources)
+- 🎵 **Podcast & Video Progress Tracking**
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Get in Touch
+- 📧 Email: gueyefadel22@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fadhilou/)
+- 🌍 Portfolio: [Your Website](portfolio-indol-eta-21.vercel.app/)
+
+⚡ **Let's build something amazing together!** 🚀
