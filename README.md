@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Cheikh Mohamadou Fadhilou GUEYE]!
+## 👋 Hello, I'm Cheikh Mohamadou Fadhilou GUEYE !
 
 🚀 **Passionate Developer | Tech Enthusiast | Problem Solver | Coding My Super Power**
 
@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadel221&show_icons=true&theme=radical)
 
 ---
 
