@@ -14,7 +14,7 @@ I am a passionate software developer from Senegal 🇸🇳 with a strong interes
 - **Frameworks**: Flutter, Angular, React, Symfony, NextJS
 - **Databases**: Firebase, MySQL
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Postman, Trello, Slack, Google Maps API
+- **Other Tools**: Docker, Postman, Trello, Slack, Discord, Google Maps API
 - **Operating System**: Linux, Mac OS, Windows
 - **Languages**: Fluent French & English Speaker
 
