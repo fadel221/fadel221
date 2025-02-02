@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Cheikh Mohamadou Fadhilou GUEYE !
 
-🚀 **Passionate Developer | Tech Enthusiast | Problem Solver | Coding My Super Power**
+🚀 **Passionate Developer | Tech Enthusiast | Problem Solver | Coding My Super Power | Flutter Lover**
 
 ---
 
