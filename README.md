@@ -35,6 +35,6 @@ I am a passionate software developer from Senegal 🇸🇳 with a strong interes
 ### 📫 Get in Touch
 - 📧 Email: gueyefadel22@gmail.com
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fadhilou/)
-- 🌍 Portfolio: [fadel221.dev](https://my-portfolio-indol-eta-21.vercel.app/#project)
+- 🌍 Portfolio: [fadel221.dev](https://my-portfolio-indol-eta-21.vercel.app/)
 
 ⚡ **Let's build something amazing together!** 🚀
